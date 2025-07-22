@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/kavia-feature-showcase-presentation-fcc0607b/kavia_slidedeck_frontend"
+}
